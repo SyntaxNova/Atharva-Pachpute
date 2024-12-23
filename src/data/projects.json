@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Portfolio Website",
+    "imageSrc": "projects/portfolio.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SyntaxNova/Atharva-Pachpute"
+  },
+  {
+    "title": "Movie Recommendation System",
+    "imageSrc": "projects/netflix.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Pandas", "Python", "LinearRe", "Apriori"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SyntaxNova/Netflix-Movie-Recommendation-System"
+  },
+  {
+    "title": "Twitter Clone",
+    "imageSrc": "projects/twitter.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/SyntaxNova/Twitter-Clone"
+  }
+]

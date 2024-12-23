@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Open Source Contributor",
+    "organisation": "GSSoC",
+    "startDate": "Sept, 2024",
+    "endDate": "Nov, 2024",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/gssoc.png"
+  },
+  {
+    "role": "AWS Intern",
+    "organisation": "Eduskill & Amazon",
+    "startDate": "Oct, 2024",
+    "endDate": "Dec, 2024",
+    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "imageSrc": "history/awsp.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "CodSoft",
+    "startDate": "Feb, 2024",
+    "endDate": "Mar, 2024",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components"
+    ],
+    "imageSrc": "history/codsoft.png"
+  }
+]
